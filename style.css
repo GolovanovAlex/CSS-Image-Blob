@@ -10,3 +10,10 @@ body {
   align-items: center;
   background-color: #121212;
 }
+.blob {
+  width: 400px;
+  height: 400px;
+  background-image: url(images/sunset.jpg);
+  background-size: cover;
+  background-position: center;
+}
