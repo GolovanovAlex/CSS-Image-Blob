@@ -16,4 +16,7 @@ body {
   background-image: url(images/sunset.jpg);
   background-size: cover;
   background-position: center;
+  border-radius: 42% 56% 72% 28% / 42% 42% 56% 48%;
+  overflow: hidden;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
 }
